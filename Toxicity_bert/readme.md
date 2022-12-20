@@ -9,3 +9,5 @@
 2. Обучение моделей.
 3. Тестирование моделей.
 4. Общий вывод.
+
+Были обучены модели LogisticRegression, RandomForestClassifier, CatBoostClassifier, LGBMClassifier, гиперпараметры подобраны при помощи GridSearchCV. Наилучшие результаты продемонстировала модель типа LGBMClassifier (F1: 0.859, Accuracy: 0.97, Precision: 0.764, Recall: 0.982).
