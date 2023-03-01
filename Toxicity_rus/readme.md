@@ -11,11 +11,14 @@
 * **python**
 * **pandas**
 * **numpy**
+* **math**
 * **matplotlib**
 * **tqdm**
 * **re**
 * **torch**
 * sklearn.model_selection.**train_test_split**
+* sklearn.metrics.**roc_curve**
+* sklearn.metrics.**precision_recall_curve**
 * sklearn.utils.**shuffle**
 * transformers.**Trainer**
 * transformers.**TrainingArguments**
