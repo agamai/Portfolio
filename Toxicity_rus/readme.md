@@ -16,6 +16,8 @@
 * **tqdm**
 * **re**
 * **torch**
+* torch.**cuda**
+* torch.utils.data.**Dataset**
 * sklearn.model_selection.**train_test_split**
 * sklearn.metrics.**roc_curve**
 * sklearn.metrics.**precision_recall_curve**
